@@ -1,1 +1,1 @@
-# lambda-invoke-logging-sf
+# lambda-invoke-logging
